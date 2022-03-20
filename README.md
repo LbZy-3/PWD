@@ -1,11 +1,7 @@
 # PWD Plane wave decomposition Toolkit
 
 # Contents
-This package contains simple programs used to simulate how electromagnetic waves from a nearfield plane object to farfield
-
-It can efficiently calculate the scalar field diffraction patterns : 
-* **Scattering:** Compute how electromagnetic waves scatter off a plane source object to farfield through vacuum
-
+This package contains simple programs used to simulate how electromagnetic waves from a nearfield signal to farfield
 
 This repository contains the following folders: 
 

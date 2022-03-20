@@ -14,8 +14,8 @@ f=kx;  %<= frquency choice in absica
 
 % fft computation
 %% 1)Simplest expression:  the spectrum have 0th freq at first point
-%TF=fft(sig);        %can't be used here later on, cause.. 
-%SIG=ifft((TF));     %.. we have centered our freq in middle
+% TF=fft(sig);        %can't be used here later on, cause.. 
+% SIG=ifft((TF));     %.. we have centered our freq in middle
 %% (2) More common expression: the spectrum have 0th freq in middle
 %TF=fftshift(fft(sig));
 %SIG=ifft(ifftshift(TF));
