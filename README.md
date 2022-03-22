@@ -1,6 +1,6 @@
 # PWD Plane wave decomposition Toolkit
 
-# Contents
+## Contents
 This package contains simple programs used to simulate how electromagnetic waves from a nearfield signal to farfield
 
 This repository contains the following folders: 
