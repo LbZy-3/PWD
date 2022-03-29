@@ -1,6 +1,6 @@
 # PWD Plane wave decomposition Toolkit
 
-<img src="./img/Fraunhofer picture.png" width="640" height="320"><img src="./img/Rayleigh.png" width="320" height="320">  
+<img src="./img/Fraunhofer picture.png" width="600" height="300"><img src="./img/Rayleigh.png" width="320" height="320">  
 
 ## Contents
 This package contains simple programs used to simulate how scalar electromagnetic waves propagate from a nearfield source defined in a planar thin screen to the farfield
